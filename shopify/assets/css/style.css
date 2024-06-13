@@ -1,0 +1,72 @@
+body {
+    background: #f3f3f3 !important;
+}
+.announcement-bar__message span {
+    color: #FFD131;
+}
+.icon-cart-empty {
+    color: #FFD131;
+}
+.product__title h1 {
+    color: #000 !important;
+}
+.modal__toggle-open {
+    color: #FFD131;
+}
+.header-wrapper {
+    background: #0e202e !important;
+}
+.header__menu-item span {
+    color: white !important;
+    font-size: 1.2em;
+}
+main {
+    background: #f3f3f3 !important;
+}
+.section-template--16902580076736__main-padding {
+    background: #f3f3f3;
+}
+.newsletter__wrapper {
+    background: #f3f3f3 !important;
+}
+footer {
+    background: #f3f3f3 !important;
+    padding-bottom: 0 !important;
+}
+.bg-black {
+    background: #f3f3f3;
+}
+.quantity__label {
+    color: black;
+}
+.price-item--regular {
+    color: #ff00f6;
+}
+p {
+    color: black;
+}
+p a {
+    color: #0e202e !important;
+    font-weight: 700;
+}
+.inline-richtext {
+    font-weight: 700;
+    color: #000;
+}
+.field__label {
+    color: #ffffff;
+}
+.newsletter-form__button svg {
+    color: #ffffff;
+}
+.share-button__button {
+    color: #ff00f6;
+}
+.footer__copyright small {
+    color: #ffffff;
+    font-size: 1.2em;
+}
+.footer__content-bottom {
+    background: #0e202e;
+    padding-bottom: 2.5em !important;
+}
